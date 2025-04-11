@@ -43,7 +43,7 @@ This project is a take-home coding challenge for a Junior/Mid-level Android engi
 - Send the user notifications when they register, invest and withdraw their investment.
 ---
 
-## 🎁 Bonus Features (Optional)
+## 🎁 Bonus Features
 - Include unit/feature tests.
 - An excellent UI & UX.
 
