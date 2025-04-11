@@ -1,4 +1,4 @@
-# 💰 Micro-Investment Platform – Laravel Take-Home Assignment
+# 💰 Micro-Investment Platform – Android Take-Home Assignment
 
 ## 📋 Overview
 
@@ -9,7 +9,7 @@ This project is a take-home coding challenge for a Junior/Mid-level Android engi
 ## 🚀 Core Features to Implement
 
 ### 1. **Authentication**
-- Implement user registration and login endpoints.
+- Implement user registration and login.
 
 ### 2. **Investment Plans**
 - Plans are predefined and seeded in the database. [https://matthiaslischka.at/2019/01/15/seed-room-database/]
